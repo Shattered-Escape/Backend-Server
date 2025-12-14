@@ -1,1 +1,24 @@
-{}
+{
+	"579dc571d53a0658a154fbec": {
+		"_id": "579dc571d53a0658a154fbec",
+		"messages": [
+			{
+				"_id": "D-a173a77b-dc41-4c9c-a171-86751df27c4e",
+				"uid": "579dc571d53a0658a154fbec",
+				"type": 8,
+				"dt": 1763177690.792,
+				"templateId": "profileCleaner",
+				"hasRewards": true,
+				"rewardCollected": true,
+				"items": {
+					"stash": "I-e6b3e8f2-413a-404b-9f85-161576d5a736",
+					"data": []
+				},
+				"maxStorageTime": 31536000
+			}
+		],
+		"pinned": false,
+		"new": 0,
+		"attachmentsNew": 0
+	}
+}

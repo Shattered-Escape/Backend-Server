@@ -1,11 +1,5 @@
 [
 	{
-		"name": "Escape",
-		"author": "Altered",
-		"version": "2.2.0",
-		"enabled": true
-	},
-	{
 		"name": "AmmoStats",
 		"author": "Antiqque",
 		"version": "1.1.1",
