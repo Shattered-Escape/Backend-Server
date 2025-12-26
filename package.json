@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "eslint": "^8.57.1",
-    "nexe": "3.3.3",
+    "nexe": "3.3.7",
     "node-minify": "3.6.0",
     "nodemon": "^3.1.7",
     "upx": "1.0.6"
